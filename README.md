@@ -34,8 +34,8 @@ http://localhost:8080/swagger-ui/index.html
 
 ## 📸 API Preview
 
-(Add Swagger screenshot here)
+<img width="2728" height="1578" alt="image" src="https://github.com/user-attachments/assets/e6dabba2-4add-4069-80d4-fed22b151772" />
 
 ## 💡 Author
 
-Your Name
+Dave Andrew Ong
