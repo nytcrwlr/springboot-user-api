@@ -51,7 +51,7 @@ POST /users
 No external setup needed except Docker and Java
 
 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/springboot-user-api.git
+git clone https://github.com/nytcrwlr/springboot-user-api.git
 
 2. Start MongoDB (Docker)
 docker run -d -p 27017:27017 --name mongodb mongo
